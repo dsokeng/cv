@@ -1,0 +1,99 @@
+:doctype: article
+:nofooter:
+:pdf-page-margin: 0.4cm
+
+== Denis Sokol
+
+__Software Engineer | 10+ years of experience | +375 (25) 758 48 34 | denis.sokol.engineering@gmail.com__
+
+'''
+
+[frame="none", grid="none", stripes="none", width="100%", cols=".<1a,.<1a"]
+|=======================
+
+| [frame="none", grid="none", stripes="none", width="100%", cols="1"]
+!=======================
+! *Enterprise Data Lake* +
+ _Data Lake, ETL and reporting for a top 5 EU bank_ +
+!  *Tasks:*  Software & data engineering, Team supervision, Mentoring, Post production support +
+!  *Stack:* Scala, Python, Spark, Hadoop, Hive, Parquet/ORC, ELK, PowerBI, Cloudera, Azure, HDInsight, Docker, Bash
+!=======================
+
+| [frame="none", grid="none", stripes="none", width="100%", cols="1"]
+!=======================
+! *Forecast Manager* +
+  _Sales forecast on terabytes of data  for US retail chain_ +
+! *Tasks:*  Data Analysis, Machine Learning, Business reporting +
+! *Stack:* Python, Pandas, Scipy, Tableau, Bash, LogicBlox, AWS (S3 / EC2 / SES), Mercurial
+!=======================
+
+| [frame="none", grid="none", stripes="none", width="100%", cols="1"]
+!=======================
+! *Engineering Assistant* +
+  _Smart VUI over an engineering software GUI_ +
+! *Tasks:* R&D, Mentoring, Demos +
+! *Stack:* Python, AutoML, Tensorforce, jMetalPy, MOBOpt, GPT-2, Robot Framework,
+  Airflow, Celery, Linux, Docker, GCP
+!=======================
+
+| [frame="none", grid="none", stripes="none", width="100%", cols="1"]
+!=======================
+! *Kinetix Trading Solutions* +
+  _Financial derivative instruments tranding platform_ +
+! *Tasks:* Software Engineering +
+! *Stack:* Java, Spring jdbc/jms/integration, gradle, C#, SQL Server, EhCache, Active MQ
+!=======================
+
+|=======================
+
+*More:*
+Demand-side platform for online advertising;
+Real-time algo-trading strategy automatic assignment;
+Voice entertainment assistant;
+Hadoop based ETL for US tax calculation agency;
+Medical surgery stuff ordering platform
+
+// Education
+'''
+
+[frame="none", grid="none", stripes="none", width="100%", cols="15h,85"]
+|=======
+| Education | Artificial Intelligence __in Belarusian State University of Informatics and Radioelectronics__
+| Languages | English, Russian
+|=======
+
+// Skills
+'''
+
+[frame="none", grid="none", stripes="none", width="100%", cols="1a,1a,1a"]
+|=======================
+
+| [frame="none", grid="none", stripes="none", cols="1h,3"]
+!=======================
+! Java     ! Jdbc, Jms, Jpa, Spring, QueryDSL, Lombok, Guava, JUnit, Maven, Ant
+! Scala    ! Play, Specs2, Sbt
+! Python   ! Pip, Virtualenv, Numpy, Pandas, Scipy, Scikit-learn, Flask, Luigi, Airflow, Celery
+! Docs     ! Markdown, Asciidoctor
+! More     ! Bash, Kotlin, Js, C#
+!=======================
+
+| [frame="none", grid="none", stripes="none", cols="1h,3"]
+!=======================
+! OS       ! Windows, Linux
+! Azure    ! HDInsights, Cognitive, BotService, CosmosDB, Functions, Blob storage
+! AWS      ! Lambda, CloudWatch, S3, EC2, Alexa
+! GCP      ! Dialogflow, ML Engine, Compute Engine, Firebase
+! Virtual  ! Docker, Compose
+!=======================
+
+| [frame="none", grid="none", stripes="none", cols="1h,3"]
+!=======================
+! Big Data ! Spark, Hadoop, Hive, Hue, Sqoop, Parquet, ORC
+! BI       ! Tableau, PowerBI
+! ML       ! Regressions, Decision trees, Neural Networks, AutoML, NLP
+! SQL      ! PostgreSQL/PostGIS, DB2, Oracle, Flyway
+! NOSQL    ! MongoDb, Redis
+! MQ       ! ActiveMQ, Kafka
+!=======================
+
+|=======================
